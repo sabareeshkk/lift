@@ -2,7 +2,7 @@ myApp.value('projectListValue', [
 	{
 	    "question": "Which is the largest country in the world by population",
 	    "options": ["India", "USA", "China", "Russia"],
-        "answer": 0,
+        "answer": 2,
         "model": "question1"
     },
     {
